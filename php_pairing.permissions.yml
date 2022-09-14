@@ -1,0 +1,4 @@
+administer php_pairing configuration:
+  title: 'Administer php_pairing configuration'
+  description: 'Optional description.'
+  restrict access: true

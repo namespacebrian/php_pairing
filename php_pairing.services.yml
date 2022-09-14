@@ -1,0 +1,6 @@
+services:
+  php_pairing.event_subscriber:
+    class: Drupal\php_pairing\EventSubscriber\PhpPairingSubscriber
+    arguments: ['@messenger']
+    tags:
+      - { name: event_subscriber }

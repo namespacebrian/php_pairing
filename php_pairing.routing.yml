@@ -1,0 +1,15 @@
+php_pairing.example:
+  path: '/php-pairing/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\php_pairing\Controller\PhpPairingController::build'
+  requirements:
+    _permission: 'access content'
+
+php_pairing.settings_form:
+  path: '/admin/config/system/php-pairing'
+  defaults:
+    _title: 'php_pairing settings'
+    _form: 'Drupal\php_pairing\Form\SettingsForm'
+  requirements:
+    _permission: 'administer php_pairing configuration'

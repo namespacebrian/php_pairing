@@ -1,0 +1,6 @@
+php_pairing.settings_form:
+  title: php_pairing
+  description: Configure php_pairing.
+  parent: system.admin_config_system
+  route_name: php_pairing.settings_form
+  weight: 10
