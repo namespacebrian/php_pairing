@@ -1,9 +1,9 @@
 <?php
 
-namespace Drupal\php_pairing\Controller;
+namespace Drupal\PhpPairing\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
-use Drupal\php_pairing\Game;
+use Drupal\PhpPairing\Game;
 
 
 /**

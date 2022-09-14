@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\php_pairing\Plugin\Block;
+namespace Drupal\PhpPairing\Plugin\Block;
 
 use Drupal\Core\Block\BlockBase;
 

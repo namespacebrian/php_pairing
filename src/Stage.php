@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\php_pairing;
+namespace Drupal\PhpPairing;
 
 
 /**

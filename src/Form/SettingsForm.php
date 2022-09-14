@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\php_pairing\Form;
+namespace Drupal\PhpPairing\Form;
 
 use Drupal\Core\Form\ConfigFormBase;
 use Drupal\Core\Form\FormStateInterface;

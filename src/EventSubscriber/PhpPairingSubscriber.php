@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\php_pairing\EventSubscriber;
+namespace Drupal\PhpPairing\EventSubscriber;
 
 use Drupal\Core\Messenger\MessengerInterface;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
